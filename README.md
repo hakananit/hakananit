@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Hakan and I am an experienced Computer Engineer :computer: with a demonstrated history of working in the telecommunications, insurance industry. 
+Skilled in Angular, ReactJs, NodeJs, and web application development in general. Strong engineering professional with a MSc. focused in Computer Engineering from Boğaziçi University in Istanbul.
+
+I am currently learning 🔭 developing Chrome Extensions using Javascript. Feel free to reach me 📫 on LinkedIn.
+
 <!--
 **hakananit/hakananit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
