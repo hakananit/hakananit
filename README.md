@@ -3,7 +3,7 @@
 My name is Hakan and I am an experienced Computer Engineer :computer: with a demonstrated history of working in the telecommunications, insurance industry. 
 Skilled in ⚡ Angular, ReactJs, NodeJs, and web application development in general :nerd_face:. Strong engineering professional with a MSc. focused in Computer Engineering from Boğaziçi University in Istanbul.
 
-I am currently learning 🔭 how to develop Chrome Extensions 🤔using Javascript. 
+I am currently learning 🔭 how to develop Chrome Extensions 🤔 using Javascript. 
 Feel free to reach me 📫 on LinkedIn.
 
 <!--
