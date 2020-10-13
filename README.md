@@ -3,9 +3,6 @@
 My name is Hakan and I am currently learning 🔭:
 
 - how to develop Chrome Extensions 🤔 using Javascript. 
-
-Feel free to reach out to me 📫 on LinkedIn.
-
 <!--
 **hakananit/hakananit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
