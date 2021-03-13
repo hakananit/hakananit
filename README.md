@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-My name is Hakan and I am currently learning 🔭:
-
-- how to develop Chrome Extensions 🤔 using Javascript. 
 <!--
 **hakananit/hakananit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
